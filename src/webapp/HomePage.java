@@ -9,4 +9,6 @@ public class HomePage {
     // more thing for the homepage
 
     // logo
+
+    // footer
 }
